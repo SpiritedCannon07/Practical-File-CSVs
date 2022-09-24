@@ -1,0 +1,7 @@
+parameter,airline1,airline2,airline3,airline4
+airline,Lufthansa,Indigo,Air India,Go Air
+avail_seat,27356,12536,28375,15289
+incidents_00_10,78,56,93,87
+fatalities_00_10,48,34,39,23
+incidents_11_21,67,49,12,19
+fatalities_11_21,41,31,2,7
